@@ -1,5 +1,4 @@
 import Footer from "./Footer";
-import Google_maps from "./Google_maps";
 import Navbar from "./Navbar";
 import contact_bg from './images/contact_bg.jpg';
 import { Link } from "react-router-dom";
