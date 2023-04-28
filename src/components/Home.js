@@ -2,7 +2,6 @@ import hero_image from './images/bbnnn-4-scaled.jpg';
 import { useState } from 'react';
 import Navbar from './Navbar';
 import Footer from './Footer';
-import Google_maps from './Google_maps';
 
 function Home(){
     return (
